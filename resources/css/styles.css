@@ -1,0 +1,63 @@
+body{
+    text-align: center;
+    background-color: #567189;
+}
+.ht-1-5{
+    height: 1.5rem;
+}
+.f-large{
+    font-size: 3rem;
+}
+.f-green{
+    color: green;
+}
+.f-red{
+    color: red;
+}
+.f-black{
+    color: black;
+}
+.f-white{
+    color: aliceblue;
+}
+.w-30{
+    width: 30%;
+}
+.wd-250{
+    width: 250px;
+}
+
+.align-left{
+    text-align: left;
+}
+.align-auto{
+    margin: auto auto auto;
+}
+.mt-20{
+    margin-top: 20px;
+}
+.lh-1{
+    line-height: 1rem;
+}
+.lh-1-5{
+    line-height: 1.5rem;
+}
+
+.f-montserrat{
+    font-family: 'Montserrat', sans-serif;
+}
+.f-montserrat-alt{
+    font-family: 'Montserrat Alternates', sans-serif;
+}
+.f-sacramento{
+    font-family: 'Sacramento', cursive;
+}
+.disp-in-blk{
+    display: inline-block;
+}
+
+/*input[type=checkbox]:checked+p: selects the first <p> element placed immediately after <input[type=checkbox] element> elements*/
+input[type=checkbox]:checked+p{
+    text-decoration: line-through;
+}
+
